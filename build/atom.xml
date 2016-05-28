@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <title>NQIS</title>
+   <subtitle>NQIS security blog</subtitle>
+   <link href="https://nqis.org/atom.xml" rel="self"/>
+   <link href="https://nqis.org/blog"/>
+   <updated>2016-05-26T18:46:00+10:00</updated>
+   <id>https://nqis.org/blog</id>
+   <author>
+     <name>NQIS</name>
+     <email>contact@nqis.org</email>
+   </author>
+
+     <entry>
+       <title>Announcing NQIS</title>
+       <id>https://nqis.org/blog/2016/05/26/announcing-nqis.html</id>
+       <link rel="alternate" href="http://nqis.org/blog/2016/05/26/announcing-nqis.html"/>
+       <updated>2016-05-26T18:46:00+10:00</updated>
+       <author>
+         <name>steve van der valk</name>
+       </author>
+       <summary>
+         NQIS rejoins the web!
+
+       </summary>
+       <content type="html"><![CDATA[<p>After many months of not having a website, we finally got around to some web work.  Thankfully the web is full of beautiful designs, typography and imagery.</p>
+
+<p>On this site we&rsquo;ll be blogging about digital security relevant to small business and NQ.</p>
+]]></content>
+     </entry>
+</feed>
